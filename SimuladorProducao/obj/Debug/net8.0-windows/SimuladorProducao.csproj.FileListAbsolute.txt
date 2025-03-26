@@ -1,0 +1,16 @@
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\bin\Debug\net8.0-windows\SimuladorProducao.exe
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\bin\Debug\net8.0-windows\SimuladorProducao.deps.json
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\bin\Debug\net8.0-windows\SimuladorProducao.runtimeconfig.json
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\bin\Debug\net8.0-windows\SimuladorProducao.dll
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\bin\Debug\net8.0-windows\SimuladorProducao.pdb
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\obj\Debug\net8.0-windows\SimuladorProducao.Form1.resources
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\obj\Debug\net8.0-windows\SimuladorProducao.csproj.GenerateResource.cache
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\obj\Debug\net8.0-windows\SimuladorProducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\obj\Debug\net8.0-windows\SimuladorProducao.AssemblyInfoInputs.cache
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\obj\Debug\net8.0-windows\SimuladorProducao.AssemblyInfo.cs
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\obj\Debug\net8.0-windows\SimuladorProducao.csproj.CoreCompileInputs.cache
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\obj\Debug\net8.0-windows\SimuladorProducao.dll
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\obj\Debug\net8.0-windows\refint\SimuladorProducao.dll
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\obj\Debug\net8.0-windows\SimuladorProducao.pdb
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\obj\Debug\net8.0-windows\SimuladorProducao.genruntimeconfig.cache
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SimuladorProducao\obj\Debug\net8.0-windows\ref\SimuladorProducao.dll
