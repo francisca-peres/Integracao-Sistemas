@@ -1,0 +1,16 @@
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\bin\Debug\net8.0-windows\SistemaLegado.exe
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\bin\Debug\net8.0-windows\SistemaLegado.deps.json
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\bin\Debug\net8.0-windows\SistemaLegado.runtimeconfig.json
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\bin\Debug\net8.0-windows\SistemaLegado.dll
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\bin\Debug\net8.0-windows\SistemaLegado.pdb
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\obj\Debug\net8.0-windows\SistemaLegado.Form1.resources
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\obj\Debug\net8.0-windows\SistemaLegado.csproj.GenerateResource.cache
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\obj\Debug\net8.0-windows\SistemaLegado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\obj\Debug\net8.0-windows\SistemaLegado.AssemblyInfoInputs.cache
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\obj\Debug\net8.0-windows\SistemaLegado.AssemblyInfo.cs
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\obj\Debug\net8.0-windows\SistemaLegado.csproj.CoreCompileInputs.cache
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\obj\Debug\net8.0-windows\SistemaLegado.dll
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\obj\Debug\net8.0-windows\refint\SistemaLegado.dll
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\obj\Debug\net8.0-windows\SistemaLegado.pdb
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\obj\Debug\net8.0-windows\SistemaLegado.genruntimeconfig.cache
+C:\Users\sorai\OneDrive - UTAD\Ambiente de Trabalho\Mestrado\2ªSemestre\Integração de Sistemas\SistemaLegado\obj\Debug\net8.0-windows\ref\SistemaLegado.dll

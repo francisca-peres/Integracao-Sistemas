@@ -1,0 +1,5 @@
+Data=2025-03-28
+Hora=16:57:20
+Codigo_Peca=ba831757
+Tempo_Producao=40
+Codigo_Resultado=03
