@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIRestTp1.props" />
+</Project>
