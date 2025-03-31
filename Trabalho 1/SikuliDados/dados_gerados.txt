@@ -1,0 +1,5 @@
+Data=2025-03-31
+Hora=22:04:24
+Codigo_Peca=aa287193
+Tempo_Producao=37
+Codigo_Resultado=01
