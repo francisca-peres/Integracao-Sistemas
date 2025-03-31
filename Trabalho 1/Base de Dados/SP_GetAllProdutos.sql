@@ -1,0 +1,6 @@
+CREATE PROCEDURE sp_GetAllProdutos
+AS
+BEGIN
+    SELECT * FROM Produto
+END
+GO
