@@ -1,0 +1,7 @@
+C:\Trabalho2\APISoap\bin\APISoap.dll.config
+C:\Trabalho2\APISoap\bin\APISoap.dll
+C:\Trabalho2\APISoap\bin\APISoap.pdb
+C:\Trabalho2\APISoap\obj\Debug\APISoap.csproj.AssemblyReference.cache
+C:\Trabalho2\APISoap\obj\Debug\APISoap.csproj.CoreCompileInputs.cache
+C:\Trabalho2\APISoap\obj\Debug\APISoap.dll
+C:\Trabalho2\APISoap\obj\Debug\APISoap.pdb

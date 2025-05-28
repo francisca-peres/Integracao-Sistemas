@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Kx6iwQMfvA=",
+  "dgSpecHash": "qwwg35PZ6ec=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sorai\\OneDrive - UTAD\\Ambiente de Trabalho\\Mestrado\\2ªSemestre\\Integração de Sistemas\\APIRestTp1\\APIRestTp1.csproj",
+  "projectFilePath": "C:\\Users\\sorai\\OneDrive - UTAD\\Ambiente de Trabalho\\Integracao-Sistemas\\Trabalho 1\\APIRestTp1\\APIRestTp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sorai\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\sorai\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
