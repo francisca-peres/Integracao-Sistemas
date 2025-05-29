@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Trabalho2\\WinFormsProdutorRabbit\\WinFormsProdutorRabbit.csproj": {}
+    "C:\\Users\\Francisca\\Desktop\\WinFormsProdutorRabbit\\WinFormsProdutorRabbit.csproj": {}
   },
   "projects": {
-    "C:\\Trabalho2\\WinFormsProdutorRabbit\\WinFormsProdutorRabbit.csproj": {
+    "C:\\Users\\Francisca\\Desktop\\WinFormsProdutorRabbit\\WinFormsProdutorRabbit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Trabalho2\\WinFormsProdutorRabbit\\WinFormsProdutorRabbit.csproj",
+        "projectUniqueName": "C:\\Users\\Francisca\\Desktop\\WinFormsProdutorRabbit\\WinFormsProdutorRabbit.csproj",
         "projectName": "WinFormsProdutorRabbit",
-        "projectPath": "C:\\Trabalho2\\WinFormsProdutorRabbit\\WinFormsProdutorRabbit.csproj",
-        "packagesPath": "C:\\Users\\sorai\\.nuget\\packages\\",
-        "outputPath": "C:\\Trabalho2\\WinFormsProdutorRabbit\\obj\\",
+        "projectPath": "C:\\Users\\Francisca\\Desktop\\WinFormsProdutorRabbit\\WinFormsProdutorRabbit.csproj",
+        "packagesPath": "C:\\Users\\Francisca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Francisca\\Desktop\\WinFormsProdutorRabbit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sorai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Francisca\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
