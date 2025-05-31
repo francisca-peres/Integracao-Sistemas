@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriarStreamRMQ", "CriarStreamRMQ.csproj", "{472D58D6-A921-46C5-AF2B-2ABA3291D91B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{472D58D6-A921-46C5-AF2B-2ABA3291D91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472D58D6-A921-46C5-AF2B-2ABA3291D91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472D58D6-A921-46C5-AF2B-2ABA3291D91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472D58D6-A921-46C5-AF2B-2ABA3291D91B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FA4A7B1-CEF9-4E45-ADEA-F2043531A726}
+	EndGlobalSection
+EndGlobal
