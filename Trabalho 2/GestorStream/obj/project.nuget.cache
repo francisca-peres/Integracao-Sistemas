@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r1CJWknqN/w=",
+  "success": true,
+  "projectFilePath": "C:\\Trabalho2\\GestorStream\\GestorStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sorai\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sorai\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sorai\\.nuget\\packages\\rabbitmq.stream.client\\1.8.13\\rabbitmq.stream.client.1.8.13.nupkg.sha512",
+    "C:\\Users\\sorai\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

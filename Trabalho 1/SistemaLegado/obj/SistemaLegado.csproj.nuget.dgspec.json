@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sorai\\OneDrive - UTAD\\Ambiente de Trabalho\\Mestrado\\2ªSemestre\\Integração de Sistemas\\SistemaLegado\\SistemaLegado.csproj": {}
+    "C:\\Users\\sorai\\OneDrive - UTAD\\Ambiente de Trabalho\\Integracao-Sistemas\\Trabalho 1\\SistemaLegado\\SistemaLegado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sorai\\OneDrive - UTAD\\Ambiente de Trabalho\\Mestrado\\2ªSemestre\\Integração de Sistemas\\SistemaLegado\\SistemaLegado.csproj": {
+    "C:\\Users\\sorai\\OneDrive - UTAD\\Ambiente de Trabalho\\Integracao-Sistemas\\Trabalho 1\\SistemaLegado\\SistemaLegado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sorai\\OneDrive - UTAD\\Ambiente de Trabalho\\Mestrado\\2ªSemestre\\Integração de Sistemas\\SistemaLegado\\SistemaLegado.csproj",
+        "projectUniqueName": "C:\\Users\\sorai\\OneDrive - UTAD\\Ambiente de Trabalho\\Integracao-Sistemas\\Trabalho 1\\SistemaLegado\\SistemaLegado.csproj",
         "projectName": "SistemaLegado",
-        "projectPath": "C:\\Users\\sorai\\OneDrive - UTAD\\Ambiente de Trabalho\\Mestrado\\2ªSemestre\\Integração de Sistemas\\SistemaLegado\\SistemaLegado.csproj",
+        "projectPath": "C:\\Users\\sorai\\OneDrive - UTAD\\Ambiente de Trabalho\\Integracao-Sistemas\\Trabalho 1\\SistemaLegado\\SistemaLegado.csproj",
         "packagesPath": "C:\\Users\\sorai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sorai\\OneDrive - UTAD\\Ambiente de Trabalho\\Mestrado\\2ªSemestre\\Integração de Sistemas\\SistemaLegado\\obj\\",
+        "outputPath": "C:\\Users\\sorai\\OneDrive - UTAD\\Ambiente de Trabalho\\Integracao-Sistemas\\Trabalho 1\\SistemaLegado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
